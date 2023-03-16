@@ -5,3 +5,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # To do
 - [ ] Better handling of data mutations
+- [ ] Better page transitions
+- [ ] Better navigation
