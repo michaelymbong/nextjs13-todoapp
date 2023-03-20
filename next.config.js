@@ -7,6 +7,13 @@ const nextConfig = {
       { loader: 'next/font/google', options: { subsets: ['latin'] } },
     ],
   },
+  redirects: () => [
+    {
+      source: '/',
+      destination: '/home',
+      permanent: false,
+    },
+  ],
 }
 
 module.exports = nextConfig
