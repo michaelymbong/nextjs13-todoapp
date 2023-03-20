@@ -7,3 +7,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [ ] Better handling of data mutations
 - [ ] Better page transitions
 - [ ] Better navigation
+- [ ] Handle Neon cold start
